@@ -17,13 +17,19 @@
 
         </activity>
         <activity android:name=".MammalsSoundsActivity">
+
+        </activity>
+        <activity android:name=".BirdSoundsActivity">
+
+        </activity>
+        <activity android:name=".EggTimerActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".BirdSoundsActivity">
+        <activity android:name=".TimeCountDownActivity">
 
         </activity>
     </application>
